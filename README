@@ -1,6 +1,9 @@
-The original ECP proxy apps website's git repository is at
-https://github.com/exascaleproject/proxy-apps-ORIGINAL. It has since been moved
-to wordpress at http://proxyapps.exascaleproject.org/wp-admin.
+The original ECP proxy apps website's git repository is at https://github.com/exascaleproject/proxy-apps-ORIGINAL. It has since been moved to wordpress at http://proxyapps.exascaleproject.org/wp-admin.
+
+Release 1.1
+
+examinimd           1.0     ADDED
+comd                1.1     REMOVED
 
 Release 1.0
 
