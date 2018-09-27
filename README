@@ -1,5 +1,22 @@
 The original ECP proxy apps website's git repository is at https://github.com/exascaleproject/proxy-apps-ORIGINAL. It has since been moved to wordpress at http://proxyapps.exascaleproject.org/wp-admin.
 
+Release 2.0
+
+ember               1.0.0   ADDED
+miniqmc             0.4.0   ADDED
+minivite            1.0     ADDED
+picsarlite          0.1     ADDED
+thornado-mini       1.0     ADDED
+
+amg                 1.1     UPDATED
+candlebm            0.1     UPDATED
+miniamr             1.4.1   UPDATED
+sw4lite             1.1     UPDATED
+xsbench             18      UPDATED
+
+minife              2.1.0   REMOVED
+minitri             1.0     REMOVED
+
 Release 1.1
 
 examinimd           1.0     ADDED
